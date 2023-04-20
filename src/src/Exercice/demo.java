@@ -1,7 +1,7 @@
 package Exercice;
 
-import Exercice.workingWithAbstraction.CardRank.CardRank;
-import Exercice.workingWithAbstraction.CardSuit.CardSuit;
+import Exercice.P01workingWithAbstraction.CardRank.CardRank;
+import Exercice.P01workingWithAbstraction.CardSuit.CardSuit;
 
 import java.util.Scanner;
 
